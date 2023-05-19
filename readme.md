@@ -1,5 +1,7 @@
 # Shrinking boundaries: Using Haptics for Enhancing Realism in Immersive Interactions with 3D Bar Charts
 
+!["BarSense"](./media/image6.png)
+
 ## Build Settings
 
 The project utilizes [OpenHaptics](https://support.3dsystems.com/s/article/OpenHaptics-for-Windows-Developer-Edition-v35?language=en_US) plugin to provide support for a [GeoMagic Touch](https://www.3dsystems.com/haptics-devices/touch) haptic device.
@@ -39,11 +41,19 @@ To run the project, open the project with Unity Hub. (version: `2020.3.3f1`)
 
 ### Axes Labelling
 
+!["Axes labelling"](./media/image11.png)
+
 ### Floating Canvas
+
+!["Axes labelling"](./media/image12.png)
 
 ### Spatial Perception & Filtering
 
+!["Axes labelling"](./media/image13.png)
+
 ### Friction and Vibrotactile Feedback
+
+!["Axes labelling"](./media/image14.png)
 
 ## Pilot Study
 
@@ -81,13 +91,17 @@ The three scenarios are as follows:
 - TaskQuiver also followed the same trend
 - TaskAbrasion performed worse when using frictional haptic feedback as compared to baseline scenario
 
+!["results"](./media/image16.png)
+
 ## User Feedback
 
 - Participants found haptics spatial perception along with filtration as better form of interaction
 - Vibrotactile feedback was also found to be helpful for encoding perceptual cues
 - Participants rated Frictional Feedback the lowest among others
 
-## Future Work
+!["Likeart Chart"](./media/image17.jpeg)
+
+## Conclusion & Future Work
 
 - Spatial perception and filtration improved access to occluded bars
 - Frictional Haptics is dependant on how much force is exerted against an object
